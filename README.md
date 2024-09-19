@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 📫 How to reach me **beubeulteam69@gmail.com**
+- 📫 How to reach me **beubeulteam@gmail.com**
 
 - ⚡ Fun fact **Always Want To Learn More 📚 .**
 
