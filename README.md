@@ -17,7 +17,7 @@
 `**
 
 </details>
-<hr>
+
 - 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **beubeulteam69@gmail.com**
