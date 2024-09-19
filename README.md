@@ -11,7 +11,7 @@
     <img align="center" alt="GIF" src="programmer.gif" width="500" height="320" />
 </div>
 
-<details><summary> <h3> who are we 🕵️‍♂️ ? </h3></summary>
+<details> <h3> who are we 🕵️‍♂️ ? </summary>
 
 **`We are Beubeul Team.
 `**
