@@ -34,13 +34,17 @@
 
 <hr>
 <h3 align="center" > 🚀 Languages - Frameworks - Tools - Libraries - Workspace 🚀</h3>
-<p align="center">
+<!-- <p align="center">
     <img src="https://skillicons.dev/icons?i=dart,flutter,laravel,firebase,bootstrap,html,css,vscode,figma,git,js,cs,php,mysql,github,gitlab,vscode,visualstudio,windows,linux"
+
+ </p> -->
+ <p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css"
 
  </p>
 
 <hr>
 <div style="display: flex;">
-    <p style="margin-right: 5px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rifqiikhsan&show_icons=true&locale=en&layout=compact&theme=radical" alt="rifqiikhsan" /></p>
-    <p style="margin-left: 5px;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rifqiikhsan&show_icons=true&locale=en&theme=radical" alt="rifqiikhsan" /></p>
+    <p style="margin-right: 5px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praditia12&show_icons=true&locale=en&layout=compact&theme=radical" alt="rifqiikhsan" /></p>
+    <p style="margin-left: 5px;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=praditia12&show_icons=true&locale=en&theme=radical" alt="rifqiikhsan" /></p>
 </div>
