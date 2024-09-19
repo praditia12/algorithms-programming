@@ -39,7 +39,7 @@
 
  </p> -->
  <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css"
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github"
 
  </p>
 
