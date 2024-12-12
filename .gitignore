@@ -1,0 +1,18 @@
+# Binary files
+*.exe
+*.out
+*.o
+
+
+# Build directories
+build/
+dist/
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.swp
+*.user
+
+# Backup files
+*~
